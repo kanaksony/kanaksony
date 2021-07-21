@@ -1,8 +1,13 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Kanak</h1> 
-<h3 align="center">A passionate developer from India <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/IN-India-Flag-icon.png" width="25 style="vertical-align: bottom"/></h3>
+<h3 align="center">A passionate developer from India who &hearts; communities </h3>
+<!--<img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/IN-India-Flag-icon.png" width="25 style="vertical-align: bottom"/> -->
+ 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanaksony&label=Profile%20views&color=0e75b6&style=flat" alt="kanaksony" /> </p>-->
-
+<h3 align="center" >
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=kanaksony&theme=chalk" alt="kanaksony"/>
+</a> 
+ </h3>
  <br>
 
 - 🔭 I’m currently working on [HarmonyOS Projects](https://github.com/applibgroup)
