@@ -1,24 +1,26 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Kanak</h1> 
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Kanak (She/Her)</h1> 
 <h3 align="center">A passionate developer from India who &hearts; communities </h3>
+<h3 align="center">WomenTechMaker Scholarship Winner 2019 | Mentor @WomenTechNetwork <br>Member @GDG Jaipur | GDG Cloud New Delhi | WomenWhoCode </h3>
 <!--<img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/IN-India-Flag-icon.png" width="25 style="vertical-align: bottom"/> -->
- 
+<h1></h1> 
 
 <h3 align="center" >
 <a href="https://github.com/ryo-ma/github-profile-trophy">
  <img src="https://github-profile-trophy.vercel.app/?username=kanaksony&theme=chalk" alt="kanaksony"/>
 </a> 
- </h3>
- <br>
+</h3>
+
+<br>
 
 - 🔭 I’m currently working on [HarmonyOS Projects](https://github.com/applibgroup)
 
-- 🌱 I’m currently learning **HarmonyOS Development**
+- 🌱 I’m currently learning **HarmonyOS Development and IOT**
 
 - 👯 I’m looking to collaborate on **IOT projects**
 
 - 🧗 I try to **Go beyond and push the bounds**
 
-- 💬 Ask me about **Mobile development, Android, HarmonyOS**
+- 💬 Ask me about **Mobile apps development, Android, HarmonyOS, Firebase**
 
 - ⚡ Fun fact **Networking with people**
 
