@@ -1,3 +1,5 @@
+<!--![Profile views](https://gpvc.arturio.dev/kanaksony)  -->
+![](https://komarev.com/ghpvc/?username=kanaksony&color=30ad00&style=flat-square&label=PROFILE+VIEWS)
 <h1 align="left"> <img width="100%" src="https://user-images.githubusercontent.com/6097596/135593577-29c850ea-45fe-4fbb-b35b-bdde3182a845.jpg"/></h1>
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Kanak (She/Her)</h1> 
 <h3 align="center">A passionate developer from India who &hearts; communities </h3>
