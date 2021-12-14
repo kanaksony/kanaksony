@@ -13,11 +13,11 @@
 </a> 
 </h3> -->
 
-- 🔭 I’m currently working on [HarmonyOS Projects](https://github.com/applibgroup)
-
-- 🌱 I’m currently learning **HarmonyOS Development and IOT**
+- 🎓 Pursuing Post Grauation Certifiacte Programme in **Internet Of Things (IoT)**
 
 - 👯 I’m looking to collaborate on **IOT projects**
+
+- 🌱 I’m currently working on [HarmonyOS Projects](https://github.com/applibgroup)
 
 - 🧗 I try to **Go beyond and push the bounds**
 
