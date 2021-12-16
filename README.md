@@ -13,7 +13,7 @@
 </a> 
 </h3> -->
 
-- 🎓 Pursuing Post Grauation Certifiacte Programme in **Internet Of Things (IoT)**
+- 🎓 Pursuing Post Grauation Certificate Programme in **Internet Of Things (IoT)**
 
 - 👯 I’m looking to collaborate on **IOT projects**
 
